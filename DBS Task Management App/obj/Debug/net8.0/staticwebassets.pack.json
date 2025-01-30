@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\DBS\\Assessments\\Take-home assessment\\DBS Task Management App\\DBS Task Management App\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DBS_Task_Management_App.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DBS_Task_Management_App.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\DBS\\Assessments\\Take-home assessment\\DBS Task Management App\\DBS Task Management App\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\DBS\\Assessments\\Take-home assessment\\DBS Task Management App\\DBS Task Management App\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\DBS\\Assessments\\Take-home assessment\\DBS Task Management App\\DBS Task Management App\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\DBS\\Assessments\\Take-home assessment\\DBS Task Management App\\DBS Task Management App\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DBS_Task_Management_App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DBS_Task_Management_App.props",
+      "PackagePath": "build\\DBS_Task_Management_App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DBS_Task_Management_App.props",
+      "PackagePath": "buildMultiTargeting\\DBS_Task_Management_App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DBS_Task_Management_App.props",
+      "PackagePath": "buildTransitive\\DBS_Task_Management_App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

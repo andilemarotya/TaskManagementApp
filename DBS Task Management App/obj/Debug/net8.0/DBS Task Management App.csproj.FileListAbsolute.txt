@@ -1,0 +1,29 @@
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\bin\Debug\net8.0\DBS_Task_Management_App.staticwebassets.runtime.json
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\bin\Debug\net8.0\DBS_Task_Management_App.exe
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\bin\Debug\net8.0\DBS_Task_Management_App.deps.json
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\bin\Debug\net8.0\DBS_Task_Management_App.runtimeconfig.json
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\bin\Debug\net8.0\DBS_Task_Management_App.dll
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\bin\Debug\net8.0\DBS_Task_Management_App.pdb
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\DBS Task Management App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\DBS Task Management App.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\DBS Task Management App.AssemblyInfo.cs
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\DBS Task Management App.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\DBS_Task_Management_App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\staticwebassets\msbuild.DBS_Task_Management_App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\staticwebassets\msbuild.build.DBS_Task_Management_App.props
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DBS_Task_Management_App.props
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DBS_Task_Management_App.props
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\scopedcss\bundle\DBS_Task_Management_App.styles.css
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\scopedcss\projectbundle\DBS_Task_Management_App.bundle.scp.css
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\DBS_Task_Management_App.dll
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\refint\DBS_Task_Management_App.dll
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\DBS_Task_Management_App.pdb
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\DBS Task Management App.genruntimeconfig.cache
+C:\Users\User\Desktop\DBS\Assessments\Take-home assessment\DBS Task Management App\DBS Task Management App\obj\Debug\net8.0\ref\DBS_Task_Management_App.dll
